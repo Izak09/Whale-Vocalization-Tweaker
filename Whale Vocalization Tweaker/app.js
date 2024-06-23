@@ -28,4 +28,4 @@ console.log("\nResult Phrase:");
 console.log(resultArray.join('').toUpperCase());
 console.log(resultArray);
 
-let resultString = resultArray.join().toUpperCase();c
+let resultString = resultArray.join().toUpperCase();
