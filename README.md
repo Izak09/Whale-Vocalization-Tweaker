@@ -1,4 +1,4 @@
-This is a 'Whale Vocalization Tweaker:
+This is a Whale Vocalization Tweaker:
 
 This project is about converting regular text into a language that mimics how whales communicate. Whales communicate using sounds that mainly consist of vowels (like 'a', 'e', 'i', 'o', 'u') and don't use consonants or the letter 'y'.
 
